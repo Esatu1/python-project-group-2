@@ -11,7 +11,7 @@
 
 
 
-
+## Some inputs are ndeed to complete this code
 
 quiz_questions = [
     {
@@ -30,7 +30,7 @@ quiz_questions = [
         "answer": "C"
     },
     {
-        "question": "Which river is the longest outside Ethiopia?",
+        "question": "Which river is flows the longest distance outside Ethiopia?",
         "options": ["A) Awash", "B) Omo", "C) Kebena", "D) Abay"],
         "answer": "A"
     },
