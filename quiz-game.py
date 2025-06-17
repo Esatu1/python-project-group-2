@@ -30,7 +30,7 @@ quiz_questions = [
         "answer": "C"
     },
     {
-        "question": "Which river is flows the longest distance outside Ethiopia?",
+        "question": "Which river flows the longest distance outside Ethiopia?",
         "options": ["A) Awash", "B) Omo", "C) Kebena", "D) Abay"],
         "answer": "A"
     },
