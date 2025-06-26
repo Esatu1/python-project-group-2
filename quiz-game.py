@@ -1,5 +1,6 @@
 
-# 5. Quiz Game
+## Python project Q #5
+## 5. Quiz Game
 # Create a basic quiz game that:
 # Contains a list of 5–10 questions stored in a dictionary (or list of dicts).
 # Asks the user each question and records their answers.
@@ -10,8 +11,7 @@
 # The python project group for the fullfillment of the coursework at Datanomics
 
 
-
-## Some inputs are ndeed to complete this code
+## CODE STARTS HERE
 
 quiz_questions = [
     {
