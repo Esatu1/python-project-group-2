@@ -1,4 +1,4 @@
-# 2. Simple Grocery Cart Checkout
+## 2. Simple Grocery Cart Checkout
 # Write a program that:
 # Has a predefined dictionary of groceries with prices.
 # Lets the user “add” items by typing their names.
@@ -7,16 +7,17 @@
 # Displays a final bill: each item, quantity, subtotal, and total.
 # Skills practiced: dictionaries, loops, input(), math operations, formatting, error handling
 
-# Predefined dictionary of grocery items with their prices
+## Predefined dictionary of grocery items with their prices
 groceries = {
     "soda": 2.5,
     "potato": 4.3,
+    "Sweet potato": 4.9,
     "onion": 1.5,
     "carrot": 3.4,
     "garlic": 8.0
 }
 
-# This will store items added by the user in the format: {item: quantity}
+## This will store items added by the user in the format: {item: quantity}
 cart = {}
 
 print("Welcome to the Grocery Store!")

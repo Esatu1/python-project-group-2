@@ -11,9 +11,9 @@
 
 # Step 1: List of available movies with showtimes and prices
 movies = {
-    "Historic": {"showtime": "6:00 PM", "price": 30},
-    "Dramatic": {"showtime": "4:00 PM", "price": 20},
-    "Comedy": {"showtime": "9:00 PM", "price": 18}
+    "Historic": {"showtime": "4:00 PM", "price": 30},
+    "Drama": {"showtime": "3:00 PM", "price": 20},
+    "Comedy": {"showtime": "10:00 PM", "price": 18}
 }
 
 # Step 2: Variables to store total bookings and total cost
